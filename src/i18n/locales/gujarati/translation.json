@@ -1,0 +1,18 @@
+{
+    "app": {
+        "name": "ખાંટ રાજપુત સમાજ પરિવાર વૃક્ષ"
+    },
+    "navigation": {
+        "home": "હોમ",
+        "familyTree": "પરિવાર વૃક્ષ",
+        "search": "શોધો",
+        "settings": "સેટિંગ્સ"
+    },
+    "person": {
+        "birthDate": "જન્મ તારીખ",
+        "age": "ઉંમર",
+        "alive": "જીવિત",
+        "deceased": "અવસાન પામેલ",
+        "children": "સંતાનો"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "app": {
+        "name": "Khant Rajut Community Tree"
+    },
+    "navigation": {
+        "home": "Home",
+        "familyTree": "Family Tree",
+        "search": "Search",
+        "settings": "Settings"
+    },
+    "person": {
+        "birthDate": "Birthdate",
+        "age": "Age",
+        "alive": "Alive",
+        "deceased": "Deceased",
+        "children": "Childrens"
+    }
+}
